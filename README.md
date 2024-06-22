@@ -2,7 +2,7 @@
 
 ## Setup
 ```js
-git clone https://github.com/A-d-i-t-h-y-a-n/WhatsApp-Bot.git
-cd WhatsApp-Bot
+git clone https://github.com/GouthamSER/Simple-Whatsappbot.git
+cd Simple-Whatsappbot
 npm start
 ```
